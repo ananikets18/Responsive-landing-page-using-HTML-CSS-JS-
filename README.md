@@ -97,15 +97,8 @@ Below is a preview of the responsive landing page UI:
 
 ---
 
-## 📜 License
-
-This project is **open-source** and available under the **MIT License**.
-
----
-
 ## 👤 Author
 
-**Ananiket S**
 GitHub: [@ananikets18](https://github.com/ananikets18)
 
 ---
